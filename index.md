@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Test de GitHub Pages pour lancer une boîte à outils en ligne  
 ---
 

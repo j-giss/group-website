@@ -1,8 +1,8 @@
 ---
 layout: default
+title: Test de GitHub Pages pour lancer une boîte à outils en ligne  
 ---
 
-# Test de GitHub Pages pour lancer une boîte à outils en ligne  
 Ceci serait la page d'accueil de la boîte à outils, qui explique le projet, ainsi que l'objectif du site.  
 ## Description du site internet
 {{site.description}}

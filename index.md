@@ -7,3 +7,5 @@ L'objectif de cette boîte à outils est de fournir un outil d'auto-formation à
 
 For more info on the author of this website, please see [this link](about.md)
 [Contact me!](mailto:{{site.email}})
+
+{% include footer.html %}
